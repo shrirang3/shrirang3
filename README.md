@@ -1,4 +1,4 @@
-[![MasterHead](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1-1536x714.png)
+![MasterHead](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/What-Is-Pair-Programming--1-1536x714.png)
 <h1 align="center">Hi 👋, I'm Shrirang Mahankaliwar</h1>
 <h3 align="center">A passionate Machine learning and Deep Learning enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg?w=740&t=st=1720507400~exp=1720508000~hmac=8de6570b01ffb566a82f8b7042ce27f2f105365377b8777e942631ea66f8cbb7"
